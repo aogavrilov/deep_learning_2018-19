@@ -1,6 +1,6 @@
-<p align="center">
-  **Домашнее задание для DLS**  
-</p>
+**<p align="center">
+  Домашнее задание для DLS
+</p>**
 В данной работе представлен реализован cycleGAN для решения задачи summer2winter.  
 В папке models представлены веса cycleGAN'a, в папке images представлены картинки(слева лето, справа зима), полученные с помощью нейросети.  
 ["models"]:(https://github.com/aogavrilov/deep_learning_2018-19/tree/master/homeworks/GAN%20and%20Style%20Transfer/models)
